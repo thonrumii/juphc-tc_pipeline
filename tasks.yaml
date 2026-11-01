@@ -74,6 +74,4 @@ spec:
         set -e
 
         echo "***** Running jasminetests *****"
-        npx jasmine
-
-ath)
+        npx jasmineath)

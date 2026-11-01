@@ -11,8 +11,8 @@ spec:
       value: "https://github.com/ibm-developer-skills-network/zntwk-tax_calculator.git"
     - name: branch
       value: "main"
-    - name: app-name
-      value: "tax-calculator"
+    - name: build-image
+      value: "us.icr.io/sn-labs-aidadushayev/tax-calculator"
   workspaces:
     - name: pipeline-workspace
       persistentVolumeClaim:
